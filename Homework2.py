@@ -1,7 +1,7 @@
 # 1. Преобразовать строку "ecnalubma" в её зеркальное отражение(реверсировать). Сделать это двумя способами.
 # input: 'ecnalubma'
 # output: 'ambulance'
-# text = input("ecnalubma")
+# text = "ecnalubma"
 # print(text[::-1])
 
 # text2 = 'ecnalubma'
